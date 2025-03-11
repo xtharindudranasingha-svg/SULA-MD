@@ -39,7 +39,7 @@
  
  <b>Visitor's Count</b>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" alt="SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" alt="sulakshamadara68/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{sulakshamadara68/SULA-MD}/count.svg" /></p>
 
 <hr>
 <b>CONTACT OWNER</b>
