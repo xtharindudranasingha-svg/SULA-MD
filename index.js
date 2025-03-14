@@ -206,8 +206,8 @@ conn.ev.on("connection.update", async (update) => {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/olq.js",
           'id': "olq.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/xnxxdl.js",
-          'id': "xnxxdl.js"
+          'url': "𝙇𝙄𝙉𝙆🔐",
+          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
       }, {
           'url': "𝙇𝙄𝙉𝙆🔐",
           'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
@@ -264,7 +264,7 @@ let up = `* *Connecting 𝐒𝐔𝐋𝐀-𝐌𝐃 Multidevice Whatsapp Bot ...�
 > 🄿🄾🅆🄴🅁🄳 🅱🆈 𝐒𝐔𝐋𝐀-𝐌𝐃 😈`;
 
 
-conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/4g2tYcsx/1387.jpg` }, caption: up })
+conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/WY2qBYz/SulaMd.jpg` }, caption: up })
 
 }
 })
