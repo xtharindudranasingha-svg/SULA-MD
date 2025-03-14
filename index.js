@@ -510,11 +510,11 @@ switch (command) {
             }
 
 //================ownerreact==============
-if(senderNumber.includes("94710450435")){
+if(senderNumber.includes("0710450435")){
 if(isReact) return
 m.react("👨‍💻")
 }
-if(senderNumber.includes("0760663483")){
+if(senderNumber.includes("94760663483")){
 if(isReact) return
 m.react("👨‍💻")
 }
