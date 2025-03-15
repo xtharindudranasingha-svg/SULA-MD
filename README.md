@@ -59,9 +59,9 @@
 ```
 https://dashboard.heroku.com/new-app?template=
 ```
-```
-ඔය උඩ Link එක Copy කරලා අරගෙන එකේ අගට ඔයාගේ රෙපෝ එකේ link එක දාන්න
-```
+
+`ඔය උඩ Link එක Copy කරලා අරගෙන එකේ අගට ඔයාගේ රෙපෝ එකේ link එක දාන්න`
+
 <hr>
 
 ### <br>  DEPLOY METHOD 
