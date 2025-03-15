@@ -9,6 +9,10 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
+    },
+    "MONGODB": {
+      "description": "Put the mongodb url here.",
+      "required": true
     }
 },
 
