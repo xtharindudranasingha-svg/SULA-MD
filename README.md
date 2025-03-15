@@ -93,9 +93,7 @@ https://dashboard.heroku.com/new-app?template=
 
 <hr>
 
-```
-ඔයා රෙපෝ එක Fork කරගත්තට පස්සේ config.js File එකට ගිහිල්ලා ඔයාගේ session id එකයි mongodb url එකයි දාන්න
-```
+`ඔයා රෙපෝ එක Fork කරගත්තට පස්සේ config.js File එකට ගිහිල්ලා ඔයාගේ session id එකයි mongodb url එකයි දාන්න`
 
 <hr>
 
