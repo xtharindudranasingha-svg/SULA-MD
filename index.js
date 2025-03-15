@@ -206,9 +206,6 @@ conn.ev.on("connection.update", async (update) => {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/olq.js",
           'id': "olq.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/bbcnews.js",
-          'id': "bbcnews.js"
-      }, {
           'url': "𝙇𝙄𝙉𝙆🔐",
           'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
       }, {
