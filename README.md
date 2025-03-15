@@ -49,6 +49,14 @@
 
 <hr>
 
+<div style="text-align: center;">
+    <a
+href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
+    <img src="https://img.shields.io/badge/Watch YouTube-FF0000?style=for-the-badge" alt="YouTube Channel">
+    </a>
+ 
+<hr>
+
 `ඉස්සරලම ඔයා බොට්ගේ රෙපෝ එක Fork කරගත්තට පස්සේ config.js File එකට ගිහිල්ලා ඔයාගේ session id එකයි mongodb url එකයි දාන්න`
 
 <hr>
