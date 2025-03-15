@@ -58,6 +58,19 @@
 
 <hr>
 
+### <br> ❖ DEPLOY AND SESSION METHOD ❖
+
+<br>
+
+` HOW TO DEPLOY SULA-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL `
+
+<p align="center">
+   <a href="https://youtu.be/zBNbbkTFyG4?si=_a-skfMMehMd5zMT"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
+</p>
+
+<br>
+
 <b>CONTACT OWNER</b>
 
 [![𝐒𝐔𝐋𝐀-𝐌𝐃](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
