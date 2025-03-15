@@ -57,7 +57,10 @@
 <a href="https://dashboard.heroku.com/new-app?template=https://github.com/sulakshamadara68/SULA-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
 
 ```
-https://dashboard.heroku.com/new-app?template= ඔයාගේ රෙපෝ එකේ ලින්ක් එක දාන්න
+https://dashboard.heroku.com/new-app?template=
+```
+```
+ඔය උඩ Link එක Copy කරලා අරගෙන එකේ අගට ඔයාගේ රෙපෝ එකේ link එක දාන්න
 ```
 <hr>
 
