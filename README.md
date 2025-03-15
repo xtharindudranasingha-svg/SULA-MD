@@ -11,7 +11,11 @@
 
 <br>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 𝐒𝐮𝐥𝐚 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Sulaksha Madara).
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <br>
 
