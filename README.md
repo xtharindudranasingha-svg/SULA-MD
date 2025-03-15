@@ -90,6 +90,12 @@ https://dashboard.heroku.com/new-app?template= ඔයාගේ රෙපෝ එ�
 
 <hr>
 
+```
+ඔයා රෙපෝ එක Fork කරගත්තට පස්සේ config.js File එකට ගිහිල්ලා ඔයාගේ session id එකයි mongodb url එකයි දාන්න
+```
+
+<hr>
+
 ### <br>   DEPLOY_WORKFLOWS 
 ```
 name: Node.js CI
