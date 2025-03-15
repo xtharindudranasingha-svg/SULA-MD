@@ -69,7 +69,7 @@
     </a>
 </p>
 
-<br>
+<hr>
 
 <b>CONTACT OWNER</b>
 
