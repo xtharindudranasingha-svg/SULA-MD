@@ -1,30 +1,17 @@
 {
-  "name": "SULA_MD",
-  "description": "Javascript WhatsApp bot made by Sula",
-  "logo": "https://i.ibb.co/BsjkCDP/9555.jpg",
-  "keywords": ["bot"],
+  "name": "SULA-MD",
+  "description": "SULA-MD WhatsApp bot made by Sulaksha Madara",
+  "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
+  "keywords": ["bot / Sula"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
-    },  
-
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
-      "required": true
-    },
-    
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
-      "required": true   
-
-    },
-
     }
 },
-  
+
      "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
