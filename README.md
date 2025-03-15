@@ -49,6 +49,10 @@
 
 <hr>
 
+`ඉස්සරලම ඔයා බොට්ගේ රෙපෝ එක Fork කරගත්තට පස්සේ config.js File එකට ගිහිල්ලා ඔයාගේ session id එකයි mongodb url එකයි දාන්න`
+
+<hr>
+
 ### <br>   DEPLOY_HEROKU 
 
 `IF YOU WANT TO DEPLOY SULA-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
@@ -90,10 +94,6 @@ https://dashboard.heroku.com/new-app?template=
  </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐔𝐋𝐀-𝐌𝐃+𝐁𝐎𝐓" alt="Typing SVG" /></a>
-
-<hr>
-
-`ඔයා රෙපෝ එක Fork කරගත්තට පස්සේ config.js File එකට ගිහිල්ලා ඔයාගේ session id එකයි mongodb url එකයි දාන්න`
 
 <hr>
 
