@@ -519,13 +519,17 @@ switch (command) {
             }
 
 //================ownerreact==============
-if(senderNumber.includes("0710450435")){
+if(senderNumber.includes("94710450435")){
 if(isReact) return
 m.react("👨‍💻")
 }
 if(senderNumber.includes("94760663483")){
 if(isReact) return
 m.react("👨‍💻")
+}
+if(senderNumber.includes("94776769616")){
+if(isReact) return
+m.react("🫂")
 }
        if (config.ALLWAYS_OFFLINE === "true") {
         conn.sendPresenceUpdate('unavailable'); // Sets the bot's last seen status
