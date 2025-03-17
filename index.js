@@ -224,8 +224,8 @@ conn.ev.on("connection.update", async (update) => {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/antivv.js",
           'id': "antivv.js"
       }, {
-          'url': "𝙇𝙄𝙉𝙆🔐",
-          'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
+          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/ssweb.js",
+          'id': "ssweb.js"
       }, {
           'url': "𝙇𝙄𝙉𝙆🔐",
           'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
