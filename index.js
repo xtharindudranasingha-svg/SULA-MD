@@ -221,8 +221,8 @@ conn.ev.on("connection.update", async (update) => {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/ranime.js",
           'id': "ranime.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/gqr.js",
-          'id': "gqr.js"
+          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/emix.js",
+          'id': "emix.js"
       }, {
           'url': "𝙇𝙄𝙉𝙆🔐",
           'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
