@@ -2,7 +2,7 @@
 {
     "bot-name": "SULAMD",
     "description": "SULA-MD made for people on Earth",
-    "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/refs/heads/main/Images/XByte-logo.png",
+    "logo": "https://files.catbox.moe/9ndi08.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://session.talkdrove.com",
     "owner-verification":"talkdrove@gmail.com",
@@ -19,6 +19,6 @@
       "required": true
     }
           
-    }
+  }
   
   }
