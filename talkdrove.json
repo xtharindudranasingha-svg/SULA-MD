@@ -4,8 +4,8 @@
     "description": "SULA-MD made for people on Earth",
     "logo": "https://files.catbox.moe/9ndi08.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://session.talkdrove.com",
-    "owner-verification":"talkdrove@gmail.com",
+    "documentation-link": "https://sula-pair-web.onrender.com",
+    "owner-verification":"sulakshamadara40@gmail.com",
   
       "env": {
     "SESSION_ID": {
