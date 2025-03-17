@@ -1,7 +1,7 @@
 
 {
-    "bot-name": "SULAMD",
-    "description": "SULA-MD made for people on Earth",
+    "bot-name": "SULA-MD",
+    "description": "SULA-MD WhatsApp bot made by Sulaksha Madara",
     "logo": "https://files.catbox.moe/9ndi08.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://sula-pair-web.onrender.com",
@@ -13,7 +13,6 @@
       "required": true
     },
 
-    
     "MONGODB": {
       "description": "Put the mongodb url here.",
       "required": true
