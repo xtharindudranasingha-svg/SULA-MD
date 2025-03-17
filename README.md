@@ -60,22 +60,12 @@
  
 <hr>
 
-`ඉස්සරලම ඔයා බොට්ගේ රෙපෝ එක Fork කරගත්තට පස්සේ config.js File එකට ගිහිල්ලා ඔයාගේ session id එකයි mongodb url එකයි දාන්න`
-
-<hr>
-
 ### <br>   DEPLOY_HEROKU 
 
 `IF YOU WANT TO DEPLOY SULA-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
 <a href="https://dashboard.heroku.com/new-app?template=https://github.com/sulakshamadara68/SULA-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
-
-```
-https://dashboard.heroku.com/new-app?template=
-```
-
-`ඔය උඩ Link එක Copy කරලා අරගෙන එකේ අගට ඔයාගේ රෙපෝ එකේ link එක දාන්න`
 
 <hr>
 
