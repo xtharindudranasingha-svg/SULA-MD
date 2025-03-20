@@ -23,15 +23,15 @@
 
 <p align="center">
   <a href="https://github.com/sulakshamadara68/SULA-MD">
-    <img src="https://img.shields.io/github/repo-size/sulaksha449/SULA-MD?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/sulakshamadara68/SULA-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/sulakshamadara68/SULA-MD">
-    <img src="https://img.shields.io/github/license/sulaksha449/SULA-MD?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/sulakshamadara68/SULA-MD?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/sulakshamadara68/SULA-MD">
-    <img src="https://img.shields.io/github/languages/top/sulaksha449/SULA-MD?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/sulakshamadara68/SULA-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/sulakshamadara68/SULA-MD">
