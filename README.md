@@ -78,7 +78,7 @@
 ` HOW TO DEPLOY SULA-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL `
 
 <p align="center">
-   <a href="https://youtu.be/zBNbbkTFyG4?si=_a-skfMMehMd5zMT"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtu.be/KG3s5feShKA"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
