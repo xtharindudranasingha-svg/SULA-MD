@@ -52,7 +52,7 @@
 <a href='https://sula-pair-web.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id 1-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
-<a href='    ' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id 2-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://sula-pair-web.vercel.app/pair.html' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id 2-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 <hr>
 
 <b>GET MONGODB URL</b>
